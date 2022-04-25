@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on anything data analytics
 - 💬 Ask me about anything
 - 📫 My LinkedIn is: [Oladayo Siyanbola](https://www.linkedin.com/in/oladayo-siyanbola-381340b2/) 
-- ⚡ Fun fact: I love rocketry and photography
+- ⚡ Fun fact: I love space 🚀🛰 and photography 📸
 
 ### Languages and Tools:
 
