@@ -11,10 +11,8 @@
 
 ### Languages and Tools:
 
-<img src="https://simpleicons.org/icons/postgreSQL.svg" width="50" height="50">
+<img src="https://simpleicons.org/icons/postgresql.svg" width="50" height="50">
 
 <img src="https://simpleicons.org/icons/python.svg" width="50" height="50">
 
 <img src="https://simpleicons.org/icons/googlecloud.svg" width="50" height="50">
-
-
