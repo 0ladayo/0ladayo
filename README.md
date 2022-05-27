@@ -2,8 +2,6 @@
 
  My name is Oladayo.
 
-- 🔭 I’m currently working on personal data analytics projects
-- 🌱 I’m currently learning query language (SQL), scripting language (Python) and cloud tools for deployment (cloud function and app engine)
 - 👯 I’m looking to collaborate on anything data analytics
 - 💬 Ask me about anything
 - 📫 My LinkedIn is: [Oladayo Siyanbola](https://www.linkedin.com/in/oladayo-siyanbola-381340b2/) 
