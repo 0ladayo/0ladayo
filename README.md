@@ -7,4 +7,6 @@
 - 📫 My LinkedIn is: [Oladayo Siyanbola](https://www.linkedin.com/in/oladayosiyanbola/) 
 - ⚡ Fun fact: I love space 🚀🛰 and photography 📸.
 
-### Languages and Tools: SQL (MySQL), Python, dbt, Airflow and Google Cloud Platform (GCP)
+### Languages and Tools
+
+SQL (MySQL), Python, dbt, Airflow and Google Cloud Platform (GCP)
