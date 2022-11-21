@@ -2,15 +2,9 @@
 
  My name is Oladayo.
 
-- 👯 I’m looking to collaborate on anything data analytics
+- 👯 I’m looking to collaborate on anything data analytics & engineering
 - 💬 Ask me about anything
 - 📫 My LinkedIn is: [Oladayo Siyanbola](https://www.linkedin.com/in/oladayosiyanbola/) 
-- ⚡ Fun fact: I love space 🚀🛰 and photography 📸
+- ⚡ Fun fact: I love space 🚀🛰 and photography 📸.
 
-### Languages and Tools:
-
-<img src="https://simpleicons.org/icons/mysql.svg" width="50" height="50">
-
-<img src="https://simpleicons.org/icons/python.svg" width="50" height="50">
-
-<img src="https://simpleicons.org/icons/googlecloud.svg" width="50" height="50">
+### Languages and Tools: SQL (MySQL), Python, dbt, Airflow and Google Cloud Platform (GCP)
