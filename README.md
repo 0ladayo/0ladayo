@@ -8,6 +8,4 @@
 - ⚡ Fun fact: I love space 🚀🛰 and photography 📸.
                 I love Federer, Coldplay, The Script and Shawn Mendes
 
-### Languages and Tools
 
-SQL (MySQL), Python, dbt, Airflow and Google Cloud Platform (GCP)
